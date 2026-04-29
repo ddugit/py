@@ -87,3 +87,6 @@ int main() {
 
     return 0;
 }
+
+
+//gcc exp8.c -o exp8 -lpthread
